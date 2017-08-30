@@ -1,0 +1,16 @@
+Assets/ThirdParty/PlatformSpecific/Windows/SimpleITKCSharpNative.dll filter=lfs diff=lfs merge=lfs -text
+PlatformSpecificPlugins/Linux/libSimpleITKCSharpNative.so filter=lfs diff=lfs merge=lfs -text
+PlatformSpecificPlugins/Linux filter=lfs diff=lfs merge=lfs -text
+PlatformSpecificPlugins/Linux.meta filter=lfs diff=lfs merge=lfs -text
+PlatformSpecificPlugins/Windows filter=lfs diff=lfs merge=lfs -text
+PlatformSpecificPlugins/Windows.meta filter=lfs diff=lfs merge=lfs -text
+PlatformSpecificPlugins/Linux/libSimpleITKCSharpNative.so.meta filter=lfs diff=lfs merge=lfs -text
+PlatformSpecificPlugins/Linux/SimpleITKCSharpManaged.dll filter=lfs diff=lfs merge=lfs -text
+PlatformSpecificPlugins/Linux/SimpleITKCSharpManaged.dll.meta filter=lfs diff=lfs merge=lfs -text
+PlatformSpecificPlugins/Windows/SimpleITKCSharpManaged.dll filter=lfs diff=lfs merge=lfs -text
+PlatformSpecificPlugins/Windows/SimpleITKCSharpManaged.dll.meta filter=lfs diff=lfs merge=lfs -text
+PlatformSpecificPlugins/Windows/SimpleITKCSharpNative.dll filter=lfs diff=lfs merge=lfs -text
+PlatformSpecificPlugins/Windows/SimpleITKCSharpNative.dll.meta filter=lfs diff=lfs merge=lfs -text
+Assets/ThirdParty/PlatformSpecific/Windows/SimpleITKCSharpManaged.dll filter=lfs diff=lfs merge=lfs -text
+Assets/ThirdParty/PlatformSpecific/Windows/SimpleITKCSharpManaged.dll.meta filter=lfs diff=lfs merge=lfs -text
+Assets/ThirdParty/PlatformSpecific/Windows/SimpleITKCSharpNative.dll.meta filter=lfs diff=lfs merge=lfs -text
